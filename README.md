@@ -8,7 +8,7 @@
 <p>
   Olá 👋, eu me chamo Hugo e sou apaixonado por Data Science vivendo no Brasil.
 
-  - 🌱 Atualmente estou MBA em Data Science e Analytics na universidade USP.
+  - 🌱 Atualmente estou cursando MBA em Data Science e Analytics na universidade USP.
 
   - 🔭 Atualmente sou um Data Analytics, mas meu sonho é virar um cientista de dados e trabalhar com contato frequente em Machine Learning e IA.
 </p>
