@@ -6,37 +6,33 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Hugo A passionate Data Science student from Brazil.
+  Olá 👋, eu me chamo Hugo e sou apaixonado por Data Science vivendo no Brasil.
 
-  - 🌱 I’m currently studying MBA Data Science And Analytics in ESAL/USP <img align="center" alt="html5" src="https://pbs.twimg.com/profile_images/1495840557289123849/RtQt3bsT_400x400.png" />
+  - 🌱 Atualmente estou MBA em Data Science e Analytics na universidade USP.
 
-  - 🔭 I am Data Analytics, My dream is to one day work with AI and Machine Learning..
+  - 🔭 Atualmente sou um Data Analytics, mas meu sonho é virar um cientista de dados e trabalhar com contato frequente em Machine Learning e IA.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 29 years old, currently living in Brazil. I have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning.
+  - 💬 Eu tenho 29 anos e possuo experiência em SQL, Power BI, Python, Data Analysis e Data Visualization.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ Gosto de assistir um bom anime, ler um bom livro e as vezes até um manga, sou curioso e gosto de entender com as coisas funcionam e porque funcionam de tal forma. \o/
 </details>
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-gomes-638a761a7/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/hugogomes13)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+![HugoDevGomes GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoDevGomes&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
+- [Python - Análise de Cohort](https://github.com/HugoDevGomes/Data-Analytics-and-Data-Science)
+- [Machine Learning - Reconhecimento Fácial e Análise de Emoções](https://github.com/HugoDevGomes/App_Face_Recognition_Emotions)
 
 <!-- GIF -->
 <p align="left">
@@ -47,18 +43,15 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
